@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: DBTSCHEMA
+    database: DBTDB 
+    schema: DBTSCHEMA  
+    tables:
+      - name: EMPLOYEE
+      
+
+  
+
